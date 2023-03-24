@@ -1,0 +1,27 @@
+[
+  {
+    "name": "cerise",
+    "price": 1000,
+    "imageName": "cerise"
+  },
+  {
+    "name": "donut",
+    "price": 1500,
+    "imageName": "donut"
+  },
+  {
+    "name": "croissant",
+    "price": 1000,
+    "imageName": "croissant"
+  },
+  {
+    "name": "manger",
+    "price": 1000,
+    "imageName": "manger"
+  },
+  {
+    "name": "poulet_frit",
+    "price": 1000,
+    "imageName": "poulet_frit"
+  }
+]
